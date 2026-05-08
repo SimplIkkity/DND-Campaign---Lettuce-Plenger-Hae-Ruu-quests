@@ -10,7 +10,7 @@ Trigger after long rest - Hae Ruu Lv.7, 15, 20.
 | ```Hae Ruu``` | Warlock | Half-Elf |
 | ```Nowa``` | Rogue | Aarakocra |
 | ```Maru``` | Fighter | Human |
-| ```Skotch``` | Ranger | Human |
+| ```Skotch``` | Ranger | Thiefling |
 | ```Reivan``` | Wizard | High-Elf |
 | ```Jeanne``` | Paladin | Human |
 
@@ -45,7 +45,7 @@ result religion: Arthoria Insignia, dimiliki oleh mereka, party Lady Asmodeus th
 | ```Hae Ruu``` | Warlock | Half-Elf |
 | ```Nowa``` | Rogue | Aarakocra |
 | ```Maru``` | Fighter | Human |
-| ```Skotch``` | Ranger | Human |
+| ```Skotch``` | Ranger | Thiefling |
 | ```Reivan``` | Wizard | High-Elf |
 | ```Jeanne``` | Paladin | Human |
 
@@ -67,7 +67,7 @@ Note to DM: Atleast 3 dari 5 quest berhasil dilakukan baru bisa free roaming di 
 | ```Hae Ruu``` | Warlock | Half-Elf |
 | ```Nowa``` | Rogue | Aarakocra |
 | ```Maru``` | Fighter | Human |
-| ```Skotch``` | Ranger | Human |
+| ```Skotch``` | Ranger | Thiefling |
 | ```Reivan``` | Wizard | High-Elf |
 | ```Jeanne``` | Paladin | Human |
 
@@ -122,7 +122,7 @@ Boss Fight: Against Hae Ruu
 |----------|-----------|---------------|
 | ```Nowa``` | Rogue | Aarakocra |
 | ```Maru``` | Fighter | Human |
-| ```Skotch``` | Ranger | Human |
+| ```Skotch``` | Ranger | Thiefling |
 | ```Reivan``` | Wizard | High-Elf |
 | ```Jeanne``` | Paladin | Human |
 
@@ -152,7 +152,7 @@ Buff defense +5, -5 incoming damage.
 |----------|-----------|---------------|
 | ```Nowa``` | Rogue | Aarakocra |
 | ```Maru``` | Fighter | Human |
-| ```Skotch``` | Ranger | Human |
+| ```Skotch``` | Ranger | Thiefling |
 | ```Reivan``` | Wizard | High-Elf |
 | ```Jeanne``` | Paladin | Human |
 
