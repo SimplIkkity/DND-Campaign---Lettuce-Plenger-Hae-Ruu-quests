@@ -1,4 +1,4 @@
-# **DND CAMPAIGN: LETTUCE PLENGER CHARACTER ACCENSION QUEST: HAE RUU**
+# **DND CAMPAIGN: LETTUCE PLENGER CHARACTER ACCENSION QUEST: HAE RUU (EASY FR FR++ 101% NO ROOT WORK 2026 HINDI TUTORIAL INDONESIA LUCKY PATCHER VIRAL!!! NO PW, PW MENIT KE 5**
 ---
 
 Trigger after long rest - Hae Ruu Lv.7, 15, 20.
@@ -92,9 +92,9 @@ Players dialogue -
 
 Party sadar sesuatu. Api dari ledakan masih tersisa.
 
-Forced roll investigation dan innitiative [yang paling tinggi yang nyadar].
+Forced all roll investigation dan innitiative [yang paling tinggi yang nyadar].
 
-Bayangan Hae Ruu sama dia, ga sinkron. Haeruu ngeliat [Person].
+Bayangan Hae Ruu sama dia sendiri ga sinkron, seperti delay untuk sepersekian detik. Haeruu ngeliat [Person].
 
 "Sia sia ditolongin, mereka juga bakalan mati."
 
@@ -109,6 +109,8 @@ Hae Ruu loncat keluar, musuh musuh diluar kaget, dan tiba tiba meledak. Goa mula
 Huu Rae muncul keluar dari tubuh Hae Ruu, panik, mau lari. Tapi dia kesedot kedalem lagi.
 
 Boss Fight: Against Hae Ruu
+
+"Tolongin ini, tolongin itu. Emang ada yang mau nolongin kita kalo kita sekarat nanti? resikonya terlalu besar, semua manusia egois, ga ada yang mau mati tapi juga ga ada yang mau ngalah."
 
 | HAE RUU (Imugi's control) | 750 Hp | Difficulty: Impossible |
 |----------|-----------|---------------|
@@ -130,9 +132,9 @@ Setelah party gagal menyerang Hae Ruu, [Person] memegang Arthoria Insignia, ia m
 
 Mereka melihat kearah party.
 
-(If roll investigation, mereka bakal menyadari kalau orang orang ini adalah yang terkuat di Abyssal realms.)
+(If roll investigation >=10, mereka bakal menyadari kalau orang orang ini adalah yang terkuat di Abyssal realms.)
 
-"Hae Ruu kemakan ya? walau begitu dia tetep disitukan kapten?" yang pendek bicara, Erana Astaroth Nyxvana (Jika ada yang roll investigation, hasilnya menunjukan kalo orang ini bukan orang biasa.
+"Hae Ruu kemakan ya? walau begitu dia tetep disitukan kapten?" yang pendek bicara, Erana Astaroth Nyxvana (Jika ada yang roll investigation, hasilnya menunjukan kalo orang ini bukan orang biasa).
 
 "Iya nih, gimana Er? kita bantu aja kali ya~" yang tinggi bilang, Lady Asmodeus the 13rd, tanggannya bergerak. Aura iblis menyelimuti party. Full Heal + cantrips (efek full rest).
 
